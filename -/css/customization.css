@@ -406,6 +406,14 @@ a.list-group-item .list-group-item-heading {
   color: #fff;
 }
 
+/* addthis */
+.addthis_native_toolbox .at4-show {
+    display: inline-block !important;
+    text-align: center !important;
+    margin-top: 36px !important;
+}
+
+/* responsive layout */
 @media (max-width: 620px) {
   .app-wrapper {
     float: none;
