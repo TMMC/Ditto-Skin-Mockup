@@ -221,6 +221,6 @@ pip-log.txt
 *.psd
 
 #############
-## Temporary ignore xml skin startup
+## Temporary ignore xml skin start-up
 #############
 tmmc-ditto-skin.xml
