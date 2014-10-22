@@ -219,3 +219,8 @@ pip-log.txt
 ## Photoshop
 #############
 *.psd
+
+#############
+## Temporary ignore xml skin star-up
+#############
+tmmc-ditto-skin.xml
